@@ -1,0 +1,9 @@
+Django==3.0.6
+azure-mgmt-cosmosdb==0.4.1
+azure-storage-blob==1.5.0
+ujson==1.35
+json5==0.9.1
+requests==2.22.0
+pandas==1.0.1
+pyodbc==4.0.30
+DateTime==4.3
